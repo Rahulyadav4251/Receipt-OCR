@@ -16,8 +16,8 @@ This project focuses on extracting text from **Unimarkt company receipts** using
 Clone the repository and install dependencies:  
 ```bash
 git clone https://github.com/Rahulyadav4251/Receipt-OCR.git
-cd Receipt-OCR
 pip install -r requirements.txt
+```
 
 ## 🔗 Online Demo  
 Try the **live demo** on Hugging Face Spaces:  
@@ -27,8 +27,7 @@ Try the **live demo** on Hugging Face Spaces:
 ## 📝 Requirements  
 - Python 3.x  
 - PaddleOCR  
-- OpenCV  
-- PIL (Pillow)  
+- OpenCV    
 - Pandas  
 
 ## 📌 Limitations  
